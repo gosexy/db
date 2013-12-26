@@ -1,5 +1,7 @@
 # gosexy/db
 
+**Note**: This package has been superseded by the [upper.io/db][9] project.
+
 `gosexy/db` is a set of wrappers for SQL and NoSQL database drivers for the
 [Go][7] programming languaje, it's currently compatible with [MongoDB][1],
 [MySQL][2], [PostgreSQL][3] and [SQLite3][4].
@@ -241,4 +243,4 @@ This is an evolving project, there are still lots of things to do:
 [6]: https://menteslibres.net/xiam
 [7]: http://www.golang.org
 [8]: https://menteslibres.net/gosexy/db
-
+[9]: https://upper.io/db
