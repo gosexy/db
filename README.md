@@ -1,3 +1,3 @@
 # gosexy/db
 
-**Note**: This package has been superseded by the [upper.io/db][9] project.
+**Note**: This package has been superseded by [upper.io/db](https://upper.io/).
